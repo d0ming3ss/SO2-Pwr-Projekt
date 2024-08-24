@@ -7,7 +7,7 @@ Cel faktycznego projektu:
 Projekt i realizacja obsługi dystrybutora dla "klientów". Dystrybutor ma za zadanie przełączać się czasowo między trzema dostepnymi stanowiskami końcowymi.
 Klienci poruszają się losową prędkością.
 Jak to działa?
-1. KLienci docierają do dystrybutora.
+1. Klienci docierają do dystrybutora.
 2. Dystrybutor przełacza się czasowo między trzema stanowiskami.
 3. Klient zostaje przydzielony poprzez dystrybutor do jednego z trzech stanowisk końcowych.
 4. Gdy klienci dotrą do stanowiska końcowego, ich cykl "życia" się kończy.
